@@ -1,1 +1,2 @@
-trying to editcommit message
+My first readme
+Editing READNE.md from GUI
