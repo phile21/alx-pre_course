@@ -1,2 +1,2 @@
 My first readme
-Editing READNE.md from GUI
+Editing READNME.md from GUI
